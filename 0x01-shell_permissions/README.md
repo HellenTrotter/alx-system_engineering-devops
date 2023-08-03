@@ -6,3 +6,4 @@
 5.Script that adds execute permission to the owner of the file.
 6.Script granting multiple permissions to different users.
 7.Script granting execution permissions to all user.
+8.Script granting different permissions to users.
