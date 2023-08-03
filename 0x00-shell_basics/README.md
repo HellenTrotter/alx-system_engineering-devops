@@ -15,3 +15,4 @@
 14.Script that copies HTML files that didnt exist in the parent of the working directory.
 15.Script that moves all files beginning with an uppercase letter.
 16.Script that deletes all files beginning with ~.
+17.Script creating multiple directories.
