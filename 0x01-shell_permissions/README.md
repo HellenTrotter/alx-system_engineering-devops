@@ -1,3 +1,4 @@
-1.Script that switches users.
-2.Script printing the current user.
-3.Script stating the groups the user belongs to.
+0.Script that switches users.
+1.Script printing the current user.
+2.Script stating the groups the user belongs to.
+3.Script changing file ownership.
