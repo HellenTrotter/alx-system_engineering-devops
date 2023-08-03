@@ -2,3 +2,4 @@
 1.Script printing the current user.
 2.Script stating the groups the user belongs to.
 3.Script changing file ownership.
+4.Script creating an empty file.
