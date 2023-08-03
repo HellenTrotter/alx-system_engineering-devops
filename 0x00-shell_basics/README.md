@@ -6,3 +6,4 @@
 5.Script that displays current directory contents in a long format with user ids diplayed numerically.
 6.Script that creates a new directory.
 7.Script that moves a file to another directory.
+8.Script that deletes a file from a directory.
