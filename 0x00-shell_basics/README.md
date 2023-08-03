@@ -17,3 +17,4 @@
 16.Script that deletes all files beginning with ~.
 17.Script creating multiple directories.
 18.Script that lists all files and directories in the current directory.
+19.Script creating a magic file.
