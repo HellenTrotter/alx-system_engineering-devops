@@ -4,3 +4,4 @@
 3.Script that displays current directory contents in a long format.
 4.Script that displays current directory contents, including hidden files.
 5.Script that displays current directory contents in a long format with user ids diplayed numerically.
+6.Script that creates a new directory.
