@@ -9,3 +9,4 @@
 8.Script that deletes a file from a directory.
 9.Script that deletes a non empty directory.
 10.Script that changes the current working directory to the previous one.
+11.Script listing all files in multiple directories in long format.
