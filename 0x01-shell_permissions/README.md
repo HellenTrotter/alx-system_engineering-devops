@@ -7,3 +7,4 @@
 6.Script granting multiple permissions to different users.
 7.Script granting execution permissions to all user.
 8.Script granting different permissions to users.
+9.Scriptthat sets the mode.
