@@ -16,3 +16,4 @@
 15.Script that moves all files beginning with an uppercase letter.
 16.Script that deletes all files beginning with ~.
 17.Script creating multiple directories.
+18.Script that lists all files and directories in the current directory.
