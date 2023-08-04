@@ -13,3 +13,4 @@
 12.Script that creates a directory called mydir with permissions 751 in the working directory.
 13.Script that changes the group ownership.
 14.Script that changes the owner and the group of all files and directories.
+15.Script that changes the owner and the group owner of a symbolic link.
