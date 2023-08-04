@@ -11,3 +11,4 @@
 10.Script that mirrors permissions of another file.
 11.Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 12.Script that creates a directory called mydir with permissions 751 in the working directory.
+13.Script that changes the group ownership.
