@@ -9,3 +9,4 @@
 8.Script granting different permissions to users.
 9.Script that sets the mode.
 10.Script that mirrors permissions of another file.
+11.Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
